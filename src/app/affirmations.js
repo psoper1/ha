@@ -1,0 +1,31 @@
+const affirmations = [
+"I am safe",
+"I am resilient",
+"Mom said I can't play with anxiety anymore",
+"I inhale peace and exhale worry",
+"I am NOT my anxiety",
+"I am loved",
+"I am stronger than I anticipated",
+"I choose peace",
+"I release fear and welcome peace",
+"I trust myself",
+"These thoughts shall pass",
+"Your heart is healthy",
+"You are doing even a small workout everyday, you are FINE",
+"This feeling is only temporary",
+"I am in no physical danger",
+"My body is calm",
+"I release myself from stress",
+"I trust in my body's ability to heal",
+"Good energy results in good health",
+"Each breath brings calm and peace",
+"I have faith in the power of healing",
+"You're FINE, I PROMISE",
+"Remember the people on that Reddit post, they are going through this as well and they are fine",
+"If the people on My 600 Pound Life are alive, you are FINE",
+"I love you",
+"You're okay! These feelings are normal!",
+"Humans bodies are VERY resilient"
+]
+
+export default affirmations;
